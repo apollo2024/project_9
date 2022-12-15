@@ -1,0 +1,15 @@
+E:\Koko\project_9\64\bin\Debug\net7.0\64.exe
+E:\Koko\project_9\64\bin\Debug\net7.0\64.deps.json
+E:\Koko\project_9\64\bin\Debug\net7.0\64.runtimeconfig.json
+E:\Koko\project_9\64\bin\Debug\net7.0\64.dll
+E:\Koko\project_9\64\bin\Debug\net7.0\64.pdb
+E:\Koko\project_9\64\obj\Debug\net7.0\64.csproj.AssemblyReference.cache
+E:\Koko\project_9\64\obj\Debug\net7.0\64.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koko\project_9\64\obj\Debug\net7.0\64.AssemblyInfoInputs.cache
+E:\Koko\project_9\64\obj\Debug\net7.0\64.AssemblyInfo.cs
+E:\Koko\project_9\64\obj\Debug\net7.0\64.csproj.CoreCompileInputs.cache
+E:\Koko\project_9\64\obj\Debug\net7.0\64.dll
+E:\Koko\project_9\64\obj\Debug\net7.0\refint\64.dll
+E:\Koko\project_9\64\obj\Debug\net7.0\64.pdb
+E:\Koko\project_9\64\obj\Debug\net7.0\64.genruntimeconfig.cache
+E:\Koko\project_9\64\obj\Debug\net7.0\ref\64.dll
